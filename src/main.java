@@ -12,7 +12,7 @@ import Modelos.Lista;
  * @author umg
  */
 public class main {
-
+    
     /**
      * @param args the command line arguments
      */
@@ -22,6 +22,7 @@ public class main {
         nuevaLista.InsertarNodo(20);
         nuevaLista.InsertarNodo(30);
         nuevaLista.ListarNodos();
+        //hola
     }
     
 }
